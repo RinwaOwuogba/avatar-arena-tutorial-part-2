@@ -1,1 +1,1 @@
-# Avatar Arena Tutotial Monorepo
+# Avatar Arena Tutorial - Part 2
